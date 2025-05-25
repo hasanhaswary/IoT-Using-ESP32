@@ -14,8 +14,6 @@ A robust IoT Integrated Solution designed to monitor environmental parameters li
 ## IMPLEMENTATION DIAGRAM
 ![Final IOT Solution Diagram](https://github.com/user-attachments/assets/7efce2a9-8a80-4eec-a2a6-a30af7ef20b6)
 
-
-
 ---
 
 ## ✨ Features
@@ -39,6 +37,10 @@ A robust IoT Integrated Solution designed to monitor environmental parameters li
 
 - **Sender Nodes**: Automatically collect and send data every 5 seconds via wireless P2P communication
 - **Receiver Node**: Displays data on the UI dashboard with no manual interaction required
+
+### UI Screenshots
+
+![Screenshot 2025-05-25 202010](https://github.com/user-attachments/assets/1deae4e3-aada-4da9-955e-438ac5c6a8de)
 
 ---
 
